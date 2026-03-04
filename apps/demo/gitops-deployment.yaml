@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: demo
-          image: docker.io/aa6488/demo:PLACEHOLDER
+          image: docker.io/koreanirsa/demo:PLACEHOLDER
           ports:
             - containerPort: 8080
           envFrom:
@@ -24,4 +24,3 @@ spec:
 
 
 
-                
