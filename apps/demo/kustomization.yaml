@@ -14,7 +14,7 @@ resources:
 images:
   - name: docker.io/koreanirsa/demo
     newName: docker.io/koreanirsa/demo
-    newTag: 30e00d2
+    newTag: 55b1bb6
 
 
     
